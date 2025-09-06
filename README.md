@@ -39,8 +39,6 @@ pip install -r requirements.txt
 ## Results
 The notebook provides visualizations, model performance metrics, and the predicted stock price for Apple Inc. in 2024.
 
-## License
-This project is licensed under the MIT License.
 
 ## Author
 - Amar03ete
